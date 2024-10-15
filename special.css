@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.round-top{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+  }
